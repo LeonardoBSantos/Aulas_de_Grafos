@@ -1,7 +1,5 @@
 # ORIENTAÇÕES
 
-NOME:LEONARDO BATISTA DOS SANTOS
-
 IDE: O software foi desenvolvido usando a IDE PyCharm, Python 3.9
 
 Arquivos: O software é composto apenas pelo arquivo nomeado como Dijkstra sendo que o arquivo A_pesos 1s2021.txt
